@@ -1,0 +1,1 @@
+export const BASE_URLS = "http://localhost:8082/taskmanager";
